@@ -8,8 +8,10 @@ My name is Pedro Anjos.
 
 ## Tools and Languages
 
-![My Skills](https://skillicons.dev/icons?i=java,js,ts,html,css,mysql,angular,flutter,git,c,cs,dotnet,python,azure)
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,html,css,mysql,angular,flutter,git,c,cs,dotnet,python,azure)](https://github.com/p3dro4)
 
 ---
+
+<br />
 
 ![p3dro4's Stats](https://github-readme-stats.vercel.app/api?username=p3dro4&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
