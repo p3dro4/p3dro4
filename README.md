@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**p3dro4/p3dro4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Pedro Anjos.
 
-Here are some ideas to get you started:
+- 🎓 3rd year student of Computer Science and Engineering at Instituto Politécnico de Setúbal;
+- 👨‍💻 Great teamworker and critical thinker.
+- 🎮 Passionate about video games and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools and Languages
+
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,html,css,mysql,angular,flutter,git,c,cs,dotnet,python,azure)](https://skillicons.dev)
+
+---
+
+<br />
+
+![p3dro4's Stats](https://github-readme-stats.vercel.app/api?username=p3dro4&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
